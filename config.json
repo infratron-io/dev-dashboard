@@ -2,19 +2,19 @@
 	"title" : "Simple Dash",
 	"items" : [
 		{
-			"alt" : "Github",
-			"icon" : "fab fa-github",
-			"link" : "https://github.com/Swagielka"
+			"alt" : "Outlook",
+			"icon" : "fab fa-windows",
+			"link" : "https://outlook.office365.com/mail/inbox"
 		},
 		{
-			"alt" : "Twitter",
-			"icon" : "fab fa-twitter",
-			"link" : "https://twitter.com/Kukielka_"
+			"alt" : "Github",
+			"icon" : "fab fa-github",
+			"link" : "https://github.com/petermein"
 		},
 		{
 			"alt" : "Docker Hub",
 			"icon" : "fab fa-docker",
-			"link" : "https://hub.docker.com/u/kukielka/"
+			"link" : "https://hub.docker.com/u/petermein/"
 		}
 	]
 }
